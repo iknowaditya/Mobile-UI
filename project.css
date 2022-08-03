@@ -1,0 +1,95 @@
+.card{
+    height: 500px;
+    width: 850px;
+    background-color: #416a59;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+
+}
+.UI{
+    height: 400px;
+    width: 250px;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 7px;
+    position: relative;
+    top: 10%;
+    left: 35%;
+
+
+
+}
+li{
+    display: inline;
+
+}
+
+.list{
+    width: 250px;
+    height: 40px;
+    background: #f5eec2;
+    position: relative;
+    top: 90%;
+
+}
+section{
+    display: inline;
+    position: fixed;
+
+}
+#A{
+    position: relative;
+    left: 0%;
+    top: 15px;
+}
+#B{
+    position: relative;
+    left: 1%;
+    top: 15px;
+
+}
+#C{
+    position: relative;
+    left: 2%;
+    top: 15px;
+}
+#D{
+    position: relative;
+    left: 3%;
+    top: 15px;
+}
+#a{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+    left: 32px;
+
+}
+#b{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+    left: 32px;
+}
+#c{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+    left: 30px;
+}
+#d{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
+    left: 60px;
+}
+nav :hover{
+    cursor: pointer;
+    color: violet;
+}
